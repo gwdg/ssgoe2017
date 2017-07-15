@@ -4,7 +4,7 @@ body {
     font-size: 125% !important;
     background-image: url(bg.png), linear-gradient(30deg, #cacaca, #b0b0b0 75%, #efefef);
     background-position: top;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-origin: padding-box;
     padding: 5px 5px 5px 5px;
