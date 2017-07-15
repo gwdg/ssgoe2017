@@ -1,3 +1,14 @@
+# This is just a testing page
+
+The main part of this attempt, is to see if I can link the _reveal.js_ presentation,
+the _html-report_ and the _pdf_ file that I've created from jupyter, from here. 
+
+So let's see
+
+- [the presentation](Presentation.slides.html)
+- [the static html](Presentation.html)
+- [the pdf](Presentation.pdf)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gekaklam/presentation-testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
