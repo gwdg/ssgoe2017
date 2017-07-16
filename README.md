@@ -5,7 +5,7 @@ the _html-report_ and the _pdf_ file that I've created from jupyter, from here.
 
 So let's see
 
-- [Workshop Preperation](notebooks/preperation.html)
+- [Workshop Preperation](notebooks/00_preperation.html)
 
 - [the presentation](Presentation.slides.html)
 - [the static html](Presentation.html)
