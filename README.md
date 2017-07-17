@@ -1,51 +1,30 @@
-# This is just a testing page
+# Workshop Agenda
 
-The main part of this attempt, is to see if I can link the _reveal.js_ presentation,
-the _html-report_ and the _pdf_ file that I've created from jupyter, from here. 
 
-So let's see
+## S21 Introduction, 11:30 -- 12:30
 
-- [Workshop Preperation](notebooks/00_preperation.html)
+This would be the introductory session for concept of Reproducible Research
+
+- The slides would be later available [here]()
+- To follow allong, during the Jupyter section, you need to 
+  follow the instructions from here [Workshop Preperation](notebooks/00_preperation.html).
+  
+## S22 Organization & Data Exploration 14:00 -- 15:30
+  
+In this part we'll talk about how to better organize a project.
+  
+- The slides would be later available [here]()
 - [Organization Exercise 01](notebooks/02_organization_exercise_01.html)
 - [Organization Exercise 02](notebooks/03_organization_exercise_02.html)
-- [the presentation](Presentation.slides.html)
-- [the static html](Presentation.html)
-- [the pdf](Presentation.pdf)
+- [Data Exploration](notebooks/04_data_exploration.ipynb)
 
-## Welcome to GitHub Pages
+## S23 Automation, 16:00 -- 17:30
 
-You can use the [editor on GitHub](https://github.com/gekaklam/presentation-testing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here, we'll automate the analysis from the previous step by implementing functions
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Automation Exercise](notebooks/05_automation.ipynb)
 
-### Markdown
+## S24 Publication & Sharing, 17:30 -- 18:30
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Here we'll see how to export the notebook, share and publish our results.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gekaklam/presentation-testing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
