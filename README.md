@@ -28,3 +28,8 @@ Here, we'll automate the analysis from the previous step by implementing functio
 
 Here we'll see how to export the notebook, share and publish our results.
 
+
+
+# References 
+
+The majority of the material, is based on the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum), which was in turn based on [Data Carpentry](http://www.datacarpentry.org/) material for reproducible research.
