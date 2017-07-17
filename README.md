@@ -1,3 +1,26 @@
+# Revised Agenda
+
+Due to the issues with the Jupyter Notebooks, (and the lack of time), we'll focus more on the other parts of the workshop, that are not so heavily dependent on Jupyter.
+
+## 16:00 -- 16:15
+
+Discussion on the Forensic Exercise (Organization Exercise 01 [html](notebooks/02_organization_exercise_01.html))
+
+## 16:15 -- 16:45
+
+Project Organization
+
+## 16:45 -- 17:15
+
+Organization Exercise 02 [html](notebooks/03_organization_exercise_02.html)
+
+## 17:15 -- 18:15
+
+Publication & Sharing Exercise [html](notebooks/06_publication_and_sharing.html)
+
+
+---
+
 # Workshop Agenda
 
 [![Join the chat at https://gitter.im/ssgoe2017/Lobby](https://badges.gitter.im/ssgoe2017/Lobby.svg)](https://gitter.im/ssgoe2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
