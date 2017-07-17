@@ -8,9 +8,12 @@
 
 This would be the introductory session for concept of Reproducible Research
 
-- The slides would be later available [here]()
+- The slides of the introduction are available [here](../pdfs/S21_Introduction.pdf)
 - To follow allong, during the Jupyter section, you need to 
   follow the instructions from here [Workshop Preperation](notebooks/00_preperation.html).
+- [Introduction to Jupyter](https://reproducible-science-curriculum.github.io/introduction-RR-Jupyter/slides/Jupyter_Intro_Background.slides.html#/)
+- [Working with Notebooks](https://reproducible-science-curriculum.github.io/introduction-RR-Jupyter/slides/Workshop%20slides%20-%20using%20the%20notebooks.slides.html#/)
+- Now, for the remaining time open (from your Jupyter Browser), the notebook `01_navigation.ipynb` and read / evaluate all of it's cells
   
 ## S22 Organization & Data Exploration 14:00 -- 15:30
   
