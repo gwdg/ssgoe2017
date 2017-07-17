@@ -20,7 +20,7 @@ This would be the introductory session for concept of Reproducible Research
 In this part we'll talk about how to better organize a project. Your first (practical) task is to follow the instructions from the Organization Exercise 01.
 
   
-  - The slides would be later available [here](https://gwdg.github.io/ssgoe2017/pdfs/S21_Introduction.pdf)
+  - The slides would be later available [here]()
 - Organization Exercise 01 [html](notebooks/02_organization_exercise_01.html) / [ipynb](notebooks/02_organization_exercise_01.ipynb)
 - Organization Exercise 02 [html](notebooks/03_organization_exercise_02.html) / [ipynb](notebooks/03_organization_exercise_02.ipynb)
 - Data Exploration [html](notebooks/04_data_exploration.html) / [ipynb](notebooks/04_data_exploration.ipynb)
@@ -35,7 +35,6 @@ Here, we'll automate the analysis from the previous step by implementing functio
 
 Here we'll see how to export a notebook, share it, and publish our results.
 
-- The slides would be later available [here]()
 - Publication & Sharing Exercise [html](notebooks/06_publication_and_sharing.html) / [ipynb](notebooks/06_publication_and_sharing.ipynb)
 
 # References 
