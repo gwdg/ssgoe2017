@@ -7,6 +7,7 @@ So let's see
 
 - [Workshop Preperation](notebooks/00_preperation.html)
 - [Organization Exercise 01](notebooks/02_organization_exercise_01.html)
+- [Organization Exercise 02](notebooks/03_organization_exercise_02.html)
 - [the presentation](Presentation.slides.html)
 - [the static html](Presentation.html)
 - [the pdf](Presentation.pdf)
