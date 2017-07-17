@@ -8,7 +8,7 @@
 
 This would be the introductory session for concept of Reproducible Research
 
-- The slides of the introduction are available [here](../pdfs/S21_Introduction.pdf)
+- The slides of the introduction are available [here](./pdfs/S21_Introduction.pdf)
 - To follow allong, during the Jupyter section, you need to 
   follow the instructions from here [Workshop Preperation](notebooks/00_preperation.html).
 - [Introduction to Jupyter](https://reproducible-science-curriculum.github.io/introduction-RR-Jupyter/slides/Jupyter_Intro_Background.slides.html#/)
