@@ -14,15 +14,15 @@ This would be the introductory session for concept of Reproducible Research
 In this part we'll talk about how to better organize a project.
   
 - The slides would be later available [here]()
-- [Organization Exercise 01](notebooks/02_organization_exercise_01.html)
-- [Organization Exercise 02](notebooks/03_organization_exercise_02.html)
-- [Data Exploration](notebooks/04_data_exploration.ipynb)
+- Organization Exercise 01[html](notebooks/02_organization_exercise_01.html)[ipynb](notebooks/02_organization_exercise_01.html)
+- Organization Exercise 02[html](notebooks/03_organization_exercise_02.html)[ipynb](notebooks/03_organization_exercise_02.html)
+- Data Exploration[html](notebooks/04_data_exploration.html)[ipynb](notebooks/04_data_exploration.ipynb)
 
 ## S23 Automation, 16:00 -- 17:30
 
 Here, we'll automate the analysis from the previous step by implementing functions
 
-- [Automation Exercise](notebooks/05_automation.ipynb)
+- Automation Exercise[html](notebooks/05_automation.html)[ipynb](notebooks/05_automation.ipynb)
 
 ## S24 Publication & Sharing, 17:30 -- 18:30
 
