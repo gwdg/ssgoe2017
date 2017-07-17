@@ -2,8 +2,7 @@
 
 [![Join the chat at https://gitter.im/ssgoe2017/Lobby](https://badges.gitter.im/ssgoe2017/Lobby.svg)](https://gitter.im/ssgoe2017/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Join the chat at https://gitter.im/ssgoe2016/Lobby](https://badges.gitter.im/ssgoe2016/Lobby.svg)](https://gitter.im/ssgoe2016/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+<iframe name="embed_readwrite" src="https://etherpad.gwdg.de/p/ssgoe2017?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width=600 height=400></iframe>
 
 ## S21 Introduction, 11:30 -- 12:30
 
