@@ -11883,6 +11883,9 @@ Python 3.6.1 :: Anaconda 4.4.0 (64-bit)</code></pre>
 <li>Destination: localhost:8889</li>
 </ul>
 <p><img src="../images/img_putty_01.png" alt="Pytty_01"></p>
+<ul>
+<li><strong>IMPORTANT Press ADD</strong> to add the tunneling. It will not work, without it.</li>
+</ul>
 </li>
 <li><p>Then at the session tab, fill again the IP of your server as before</p>
 <p><img src="../images/img_putty_02.png" alt="Pytty_01"></p>
@@ -11896,9 +11899,9 @@ Python 3.6.1 :: Anaconda 4.4.0 (64-bit)</code></pre>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Linux-/-Mac-Users">Linux / Mac Users<a class="anchor-link" href="#Linux-/-Mac-Users">&#194;&#182;</a></h3><p>Open a new terminal window and execute the following command, replacing <code>&lt;IP&gt;</code> with the IP of your server</p>
+<h3 id="Linux-/-Mac-Users">Linux / Mac Users<a class="anchor-link" href="#Linux-/-Mac-Users">&#194;&#182;</a></h3><p>Open a new terminal window and execute the following command, replacing <code>&lt;IP&gt;</code> with the IP of your server.</p>
 
-<pre><code>ssh -N -L localhost:8888:localhost:8889 cloud@141.5.102.194</code></pre>
+<pre><code>ssh -N -L localhost:50000:localhost:8889 cloud@&lt;IP&gt;</code></pre>
 <p>The command will not return, and keep running. To stop it you can issue a <strong><code>CTRL+C</code></strong>.</p>
 <p>Alternatively you could also:</p>
 <ul>
@@ -11913,7 +11916,12 @@ Python 3.6.1 :: Anaconda 4.4.0 (64-bit)</code></pre>
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="Connecting-to-the-Notebook">Connecting to the Notebook<a class="anchor-link" href="#Connecting-to-the-Notebook">&#194;&#182;</a></h2><p>Now you should be able to go to <a href="http://localhost:8888">http://localhost:8888</a> and connect to your notebook. You would be asked to provide the password that you created at a <a href="#password">previous step</a>.</p>
+<h2 id="Connecting-to-the-Notebook">Connecting to the Notebook<a class="anchor-link" href="#Connecting-to-the-Notebook">&#194;&#182;</a></h2><p>Now you should be able to go to <code>http://localhost:&lt;port&gt;</code> and connect to your notebook. You need to replace <code>&lt;port&gt;</code> with the numbe of the source port, that you used earlier for the ssh tunneling</p>
+<ul>
+<li>Windows users: 8888: <a href="http://localhost:8888">http://localhost:8888</a></li>
+<li>Mac Users: 50000: <a href="http://localhost:50000">http://localhost:50000</a></li>
+</ul>
+<p>You would be asked to provide the password that you created at a <a href="#password">previous step</a>.</p>
 <p>You should be seeing something similar to this:</p>
 <p><img src="../images/img_jupyter_start.png" alt="this"></p>
 
