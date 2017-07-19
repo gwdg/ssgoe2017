@@ -42,6 +42,15 @@ A number of presentation regarding Reproducible Research
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLbbGaMTX2ihUH22kImmLkTz-9KfQ0g_4g)
 
 	
+
+## Scientific Python
+
+A number of great videos and tutorials can be found at the Enthough and PyData channels on YouTube
+
+- [PyData](https://www.youtube.com/user/PyDataTV/feed)
+- [Enthough](https://www.youtube.com/user/EnthoughtMedia/feed)
+
+
 ## Git / GitHub
 
 To learn more about Git/Github you can check the following. 
