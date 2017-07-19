@@ -23,9 +23,8 @@ This workshop is also based on the Reproducible Science Curriculum. However, it 
 
 - [Workshop Website](https://reproducible-science-curriculum.github.io/2015-06-01-reproducible-science-idigbio/)
 - Recordings of Sessions: 
-  - Day
-    1: [Part 1](http://idigbio.adobeconnect.com/p45n2kdth1j/), [Part 2](http://idigbio.adobeconnect.com/p8vfk4queh1/), [Part 3](http://idigbio.adobeconnect.com/p2nreqf99s9/), [Part 4](http://idigbio.adobeconnect.com/p156843vs2o/)
-	2: [Part 1](http://idigbio.adobeconnect.com/p3lsgjahmxq/), [Part 2](http://idigbio.adobeconnect.com/p9gp7rkpwsc/), [Part 3](http://idigbio.adobeconnect.com/p8hlvslbntu/), [Part 4](http://idigbio.adobeconnect.com/p4ypgv95881/)
+  - Day 1: [Part 1](http://idigbio.adobeconnect.com/p45n2kdth1j/), [Part 2](http://idigbio.adobeconnect.com/p8vfk4queh1/), [Part 3](http://idigbio.adobeconnect.com/p2nreqf99s9/), [Part 4](http://idigbio.adobeconnect.com/p156843vs2o/)
+  - Day 2: [Part 1](http://idigbio.adobeconnect.com/p3lsgjahmxq/), [Part 2](http://idigbio.adobeconnect.com/p9gp7rkpwsc/), [Part 3](http://idigbio.adobeconnect.com/p8hlvslbntu/), [Part 4](http://idigbio.adobeconnect.com/p4ypgv95881/)
 - [Workshop Wiki](https://www.idigbio.org/wiki/index.php/Reproducible_Science_Workshop)
 
 ### Reproducible Research: Walking the Walk
@@ -49,14 +48,16 @@ To learn more about Git/Github you can check the following.
 
 ### Git for Scientists: A Tutorial
 
-An introduction to Git, structured specifically for scientists. It uses [tryGit](https://try.github.io/levels/1/challenges/1), so you can follow along, even if you don't have Git installed on your system.
+An introduction to Git, structured specifically for scientists.
+
+It uses [tryGit](https://try.github.io/levels/1/challenges/1), so you can follow along, even if you don't have Git installed on your system.
 
 - [Website](http://nyuccl.org/pages/GitTutorial/)
 
 
 ### Udacity Git Course
 
-A free course on Git, from Udacity
+A free course on Git, from Udacity.
 
 - [Course Website](https://www.udacity.com/course/version-control-with-git--ud123#)
 
@@ -121,6 +122,8 @@ A youtube presentation of Singularity containers
 
 - [YouTube Video](https://www.youtube.com/watch?v=DA87Ba2dpNM)
 
+
+---
 
 ----
 
