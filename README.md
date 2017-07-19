@@ -5,7 +5,7 @@ This is a list with material for further study.
 It contains links for:
 
 1. [Reproducible Science](#reproducible-science)
-1. [Scientific Python](#programming-and-scientific-python)
+1. [Programming and Scientific Python](#programming-and-scientific-python)
 1. [Git and GitHub](#git-and-github)
 1. [Linux and Linux Command Line](#linux-and-linux-command-line)
 1. [Containers](#containers)
@@ -57,7 +57,7 @@ A number of presentation regarding Reproducible Research
 ## Programming and Scientific Python
 
 An introduction to programming using Python
-- [Book Website](https://interactivepython.org/runestone/static/thinkcspy/index.html)
+- [How to Think Like a Computer Scientist](https://interactivepython.org/runestone/static/thinkcspy/index.html)
   
   
 Also a number of great videos and tutorials can be found at the Enthough and PyData channels on YouTube
