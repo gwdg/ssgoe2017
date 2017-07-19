@@ -2,10 +2,16 @@
 
 This is a list with material for further study.
 
-It contains information regarding:
+It contains links for:
 
-- [Reproducible Science](#reproducible-science)
-- [Scientific Python](#scientific-python)
+1. [Reproducible Science](#reproducible-science)
+1. [Scientific Python](#scientific-python)
+1. [Git and GitHub](#git-and-github)
+1. [Linux and Linux Command Line](#linux-and-linux-command-line)
+1. [Containers](#containers)
+1. [General Material](#general-material)
+
+----
 
 ## Reproducible Science
 	
@@ -59,7 +65,7 @@ For example:
 
 - [IPython and Jupyter in Depth](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
 
-## Git / GitHub
+## Git and GitHub
 
 To learn more about Git/Github you can check the following. 
 
@@ -100,7 +106,7 @@ A complete (free) course that will provide you with a good working knowledge of 
 
 - [Course Website](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1#!)
 
-## Containers (Docker, Singularity)
+## Containers
 
 Here are some resources regarding the use of general containers ([Docker](https://www.docker.com/)), or some containers specialized in scientific computing ([Singularity](http://singularity.lbl.gov/))
 
