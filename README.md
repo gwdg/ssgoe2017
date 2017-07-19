@@ -6,13 +6,13 @@ This is a list with material for further study.
 	
 The following links, are focusing on Reproducible Research
 
-### Reproducible Science Curriculum
+### [Reproducible Science Curriculum](https://reproducible-science-curriculum.github.io/rr-jupyter-workshop/)
 
 This is the curriculum, on which the workshop was based on.
 
 - [Introduction](https://github.com/Reproducible-Science-Curriculum/introduction-RR-Jupyter)
 - [Organization](https://github.com/Reproducible-Science-Curriculum/organization-RR-Jupyter)
-  - The main documents are under the [_episodes](https://github.com/Reproducible-Science-Curriculum/organization-RR-Jupyter/tree/gh-pages/_episodes) folder
+  - The main documents are under the [_episodes folder.](https://github.com/Reproducible-Science-Curriculum/organization-RR-Jupyter/tree/gh-pages/_episodes)
 - [Data Exploration](https://github.com/Reproducible-Science-Curriculum/data-exploration-RR-Jupyter)
 - [Automation](https://github.com/Reproducible-Science-Curriculum/automation-RR-Jupyter)
 - [Publication & Sharing](https://github.com/Reproducible-Science-Curriculum/publication-RR-Jupyter)
