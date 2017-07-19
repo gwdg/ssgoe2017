@@ -1,6 +1,6 @@
 # Further Reading 
 
-This is a list with material for further study. The 
+This is a list with material for further study.
 
 ## Reproducible Science
 	
