@@ -50,6 +50,9 @@ A number of great videos and tutorials can be found at the Enthough and PyData c
 - [PyData](https://www.youtube.com/user/PyDataTV/feed)
 - [Enthough](https://www.youtube.com/user/EnthoughtMedia/feed)
 
+For example:
+
+- [IPython and Jupyter in Depth](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
 
 ## Git / GitHub
 
@@ -62,6 +65,12 @@ An introduction to Git, structured specifically for scientists.
 It uses [tryGit](https://try.github.io/levels/1/challenges/1), so you can follow along, even if you don't have Git installed on your system.
 
 - [Website](http://nyuccl.org/pages/GitTutorial/)
+
+### Atlassian Git Tutorial
+
+A longer tutorial on git, from Atlassian. The examples use Bitbucket, and not GitHub. However the commands are the same
+
+- [Website](https://www.atlassian.com/git/tutorials)
 
 
 ### Udacity Git Course
@@ -130,6 +139,12 @@ An article explaining what singularity containers are and their basic usage.
 A youtube presentation of Singularity containers
 
 - [YouTube Video](https://www.youtube.com/watch?v=DA87Ba2dpNM)
+
+
+## General Material
+
+- [A Quick Guide to Software Licensing for the Scientist-Programmer](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598)
+- [DataTau](http://www.datatau.com/): A website with general news regarding Data Science.
 
 
 ---
