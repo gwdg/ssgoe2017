@@ -2,6 +2,11 @@
 
 This is a list with material for further study.
 
+It contains information regarding:
+
+- [Reproducible Science](#reproducible-science)
+- [Scientific Python](#scientific-python)
+
 ## Reproducible Science
 	
 The following links, are focusing on Reproducible Research
@@ -145,6 +150,8 @@ A youtube presentation of Singularity containers
 
 - [A Quick Guide to Software Licensing for the Scientist-Programmer](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002598)
 - [DataTau](http://www.datatau.com/): A website with general news regarding Data Science.
+- [Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)
+- [Best Practices in Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 
 
 ---
