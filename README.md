@@ -5,7 +5,8 @@ This is a list with material for further study.
 It contains links for:
 
 1. [Reproducible Science](#reproducible-science)
-1. [Programming and Scientific Python](#programming-and-scientific-python)
+1. [Programming](#programming)
+1. [Scientific Python](#scientific-python)
 1. [Git and GitHub](#git-and-github)
 1. [Linux and Linux Command Line](#linux-and-linux-command-line)
 1. [Containers](#containers)
@@ -52,15 +53,24 @@ A number of presentation regarding Reproducible Research
 
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLbbGaMTX2ihUH22kImmLkTz-9KfQ0g_4g)
 
-	
 
-## Programming and Scientific Python
+## Programming
 
 An introduction to programming using Python
 - [How to Think Like a Computer Scientist](https://interactivepython.org/runestone/static/thinkcspy/index.html)
   
-  
-Also a number of great videos and tutorials can be found at the Enthough and PyData channels on YouTube
+
+Programming Exercises:
+	- Advent of Code: [2015](http://adventofcode.com/2015), [2016](http://adventofcode.com/2016)
+	  Advent of code is a website that contain programming challenges. You will get an input and then a form to put your output to be checked automatically. 
+	  
+    - [the cryptopals crypto challenges](https://cryptopals.com/)
+      More advanced programming challenges, focusing on security topics
+
+
+## Scientific Python
+
+Also a number of great videos and tutorials, for Python and generally for Data Science, can be found at the Enthough and PyData channels on YouTube:
 	
 - [PyData](https://www.youtube.com/user/PyDataTV/feed)
 - [Enthough](https://www.youtube.com/user/EnthoughtMedia/feed)
