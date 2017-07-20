@@ -175,6 +175,7 @@ A youtube presentation of Singularity containers
 - [Choose A Licence](https://choosealicense.com/)
   - [Licenses](https://choosealicense.com/licenses/)
   - [Detailed Overview](https://choosealicense.com/appendix/)
+  
 - [DataTau](http://www.datatau.com/): A website with general news regarding Data Science.
 - [Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)
 - [Best Practices in Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
@@ -189,10 +190,10 @@ Some general (non-technical) book recommendations:
   A book that teaches you how to deal with constant changes
   
 - [The Dip, by Seth Godin](https://www.goodreads.com/book/show/324748.The_Dip):
-  Thought about when to quit and when to stay.
+  Thoughts about when to quit and when to stay.
   
 - [So Good They Can’t Ignore You, by Cal Newport](http://calnewport.com/books/so-good/):
-  On why it's more important to focus on building your skills, and why "Following your passion" is not a good advice.
+  On why it's more important to focus on building your skills, and why "Following your passion" is not always a good advice.
 
 - [Deep Work, by Cal Newport](http://calnewport.com/books/deep-work/):
   By the same author, recommendations for how to work more focused and why that is important.
