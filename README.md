@@ -61,11 +61,13 @@ An introduction to programming using Python
   
 
 Programming Exercises:
-	- Advent of Code: [2015](http://adventofcode.com/2015), [2016](http://adventofcode.com/2016)
-	  Advent of code is a website that contain programming challenges. You will get an input and then a form to put your output to be checked automatically. 
-	  
-    - [the cryptopals crypto challenges](https://cryptopals.com/)
-      More advanced programming challenges, focusing on security topics
+
+- Advent of Code: [2015](http://adventofcode.com/2015), [2016](http://adventofcode.com/2016)
+  - Advent of code is a website that contain programming challenges. You will get an input and then a form to put your output to be checked automatically. 
+
+
+- [The cryptopals crypto challenges](https://cryptopals.com/)
+  - More advanced programming challenges, focusing on security topics
 
 
 ## Scientific Python
