@@ -176,11 +176,13 @@ A youtube presentation of Singularity containers
   - [Licenses](https://choosealicense.com/licenses/)
   - [Detailed Overview](https://choosealicense.com/appendix/)
   
+  
 - [DataTau](http://www.datatau.com/): A website with general news regarding Data Science.
 - [Good Enough Practices in Scientific Computing](https://arxiv.org/abs/1609.00037)
 - [Best Practices in Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 - [Opening Science](http://book.openingscience.org/)
-
+- [How to have a bad career in Research / Academia](https://youtu.be/Pbdo-ozuOug?t=174)
+- [You and Your Research](https://www.youtube.com/watch?v=a1zDuOPkMSw&index=31&list=PL2FF649D0C4407B30)
 
 ## Books
 
