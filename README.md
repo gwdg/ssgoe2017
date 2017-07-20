@@ -179,6 +179,33 @@ A youtube presentation of Singularity containers
 - [Best Practices in Scientific Computing](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)
 - [Opening Science](http://book.openingscience.org/)
 
+
+## Books
+
+Some general (non-technical) book recommendations:
+
+- [Who Moved My Cheese, by Dr Spencer Johnson](https://www.goodreads.com/book/show/4894.Who_Moved_My_Cheese_)
+  A book that teaches you how to deal with constant changes
+  
+- [The Dip, by Seth Godin](https://www.goodreads.com/book/show/324748.The_Dip)
+  Thought about when to quit and when to stay.
+  
+- [So Good They Can’t Ignore You, by Cal Newport](http://calnewport.com/books/so-good/)
+  On why it's more important to focus on building your skills, and why "Following your passion" is not a good advice.
+
+- [Deep Work, by Cal Newport](http://calnewport.com/books/deep-work/)
+  By the same author, recommendations for how to work more focused and why that is important.
+  
+- [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+  A lot of information on how we think and behave.
+  
+- [How to Read a Book](https://www.goodreads.com/book/show/567610.How_to_Read_a_Book)
+  Self explanatory title.
+  
+- [Incerto, by Nassim Nicholas Taleb](http://www.fooledbyrandomness.com/)
+  A philosophical and practical essay on uncertainty. It is not a "Data Science" book, but it might be the most critical book that you read, regarding Data Science.
+
+
 ---
 
 ----
@@ -247,6 +274,10 @@ Here we'll see how to export a notebook, share it, and publish our results.
 
 - Publication & Sharing Exercise [html](notebooks/06_publication_and_sharing.html) / [ipynb](notebooks/06_publication_and_sharing.ipynb)
 
-# References 
+# References
 
 The majority of the material, is based on the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum), which was in turn based on [Data Carpentry](http://www.datacarpentry.org/) material for reproducible research.
+	
+# Disclaimer
+
+The opinions expressed in this article are the committer's own and do not necessarily reflect the views of GWDG.
