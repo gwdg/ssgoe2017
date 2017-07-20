@@ -11,6 +11,7 @@ It contains links for:
 1. [Linux and Linux Command Line](#linux-and-linux-command-line)
 1. [Containers](#containers)
 1. [General Material](#general-material)
+1. [Books](#books)
 
 ----
 
@@ -184,25 +185,25 @@ A youtube presentation of Singularity containers
 
 Some general (non-technical) book recommendations:
 
-- [Who Moved My Cheese, by Dr Spencer Johnson](https://www.goodreads.com/book/show/4894.Who_Moved_My_Cheese_)
+- [Who Moved My Cheese, by Dr Spencer Johnson](https://www.goodreads.com/book/show/4894.Who_Moved_My_Cheese_):
   A book that teaches you how to deal with constant changes
   
-- [The Dip, by Seth Godin](https://www.goodreads.com/book/show/324748.The_Dip)
+- [The Dip, by Seth Godin](https://www.goodreads.com/book/show/324748.The_Dip):
   Thought about when to quit and when to stay.
   
-- [So Good They Can’t Ignore You, by Cal Newport](http://calnewport.com/books/so-good/)
+- [So Good They Can’t Ignore You, by Cal Newport](http://calnewport.com/books/so-good/):
   On why it's more important to focus on building your skills, and why "Following your passion" is not a good advice.
 
-- [Deep Work, by Cal Newport](http://calnewport.com/books/deep-work/)
+- [Deep Work, by Cal Newport](http://calnewport.com/books/deep-work/):
   By the same author, recommendations for how to work more focused and why that is important.
   
-- [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+- [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow):
   A lot of information on how we think and behave.
   
-- [How to Read a Book](https://www.goodreads.com/book/show/567610.How_to_Read_a_Book)
+- [How to Read a Book](https://www.goodreads.com/book/show/567610.How_to_Read_a_Book):
   Self explanatory title.
   
-- [Incerto, by Nassim Nicholas Taleb](http://www.fooledbyrandomness.com/)
+- [Incerto, by Nassim Nicholas Taleb](http://www.fooledbyrandomness.com/):
   A philosophical and practical essay on uncertainty. It is not a "Data Science" book, but it might be the most critical book that you read, regarding Data Science.
 
 
