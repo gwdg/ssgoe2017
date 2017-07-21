@@ -174,7 +174,7 @@ A youtube presentation of Singularity containers
 
 The two following (free) books, are considered to be the best books for Machine Learning -- even though "Machine Learning" is not in their title.
 
-- [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
 - [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 
