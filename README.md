@@ -10,6 +10,7 @@ It contains links for:
 1. [Git and GitHub](#git-and-github)
 1. [Linux and Linux Command Line](#linux-and-linux-command-line)
 1. [Containers](#containers)
+1. [Machine Learning](#machine-learning)
 1. [General Material](#general-material)
 1. [Books](#books)
 
@@ -167,6 +168,14 @@ An article explaining what singularity containers are and their basic usage.
 A youtube presentation of Singularity containers
 
 - [YouTube Video](https://www.youtube.com/watch?v=DA87Ba2dpNM)
+
+
+## Machine Learning
+
+The two following (free) books, are considered to be the best books for Machine Learning -- even though "Machine Learning" is not in their title.
+
+- [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 
 ## General Material
